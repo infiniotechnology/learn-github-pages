@@ -25,8 +25,7 @@ This URL will follow the format: `https://yourusername.github.io/repo-name/`.
 
 ### 4. Update and Publish Your HTML File
 - Navigate to the `/index.html` file in your repository.
-- Find the text **GitHub Pages** on line 96.
-- Replace it with **GitHub Page by [Your Name]**.
+- Edit the code as per your choice.
 - After editing, click the **Commit changes** button at the top-right of the file editor.
 - Enter a commit message and click **Commit changes** again to confirm.
 - Your changes will appear live on your site within a few minutes.
